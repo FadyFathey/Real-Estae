@@ -1,6 +1,6 @@
 # Real-Estate 
 
-## Task with (Reactjs)  
+## project with (Reactjs)  
 
 ## [Website Demo](https://real-estate-xi-one.vercel.app/)
 # website view
